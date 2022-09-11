@@ -6,7 +6,7 @@ let str = `*https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow*
 
 Pengen mentahan nya ?
 Nih ada santai bro....
-https://github.com/ImYanXiao/Elaina-MultiDevice
+https://github.com/disti-ayu
 
 Pengen yang udah di recode oleh owner?
 Script bot ini dijual bila kalian mau bisa chat owner
