@@ -13,6 +13,8 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
+*❉ DisDik:* (OWNER)
+https://github.com/disti-ayu
 *❉ Adiwajshing:*
 https://github.com/adiwajshing
 *❉ Nurutomo:*
@@ -57,6 +59,7 @@ https://github.com/FahriAdison
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
+*❉ DISDIK MODS DEV:*
 *❉ WH MODS DEV:*
 *❉ Kannachan:*
 *❉ Papah-Chan:*
