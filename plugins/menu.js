@@ -498,7 +498,7 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By Wh-Mods-Dev',
+            footer: titlebot + '\n By DISDIK-Mods-Dev',
             templateButtons: [
                 {
                     urlButton: {
