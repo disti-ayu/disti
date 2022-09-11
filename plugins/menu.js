@@ -503,7 +503,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `SUBSCRIBE`,
-                        url: 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow'
+                        url: 'https://youtube.com/channel/UCEc2cXfVxhloTUU1Np9UPNg'
                     }
                 },
                 {
