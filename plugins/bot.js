@@ -5,7 +5,7 @@ let whmods = fs.readFileSync('./mp3/Bot.opus')
 conn.sendFile(m.chat, whmods, '', '', m, true)
 }
 
-handler.customPrefix = /^(bot|robot|p|hallo|hello|tes|tes123|tes1|tes12|woy)$/i
+handler.customPrefix = /^(bot|robot|p|hallo|oi|woi|bang|banh|hai|hello|oy|tes|tes123|tes1|tes12|woy)$/i
 handler.command = new RegExp
 
 handler.limit = true
