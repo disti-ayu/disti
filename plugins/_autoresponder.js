@@ -10,7 +10,7 @@ handler.all = async function (m, { isBlocked }) {
 /* - - - - - - - Ini autoresponder - - - - - - - */
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-let regj = /(.jadibotak)/i
+let regj = /(.jadibot)/i
     let isJadibot = regj.exec(m.text)
     let jadbot = [
 '🤖',
