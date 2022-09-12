@@ -37,7 +37,7 @@ ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
 //------------ bio
-let ppown = await conn.profilepictureurl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[2]) 
+let ppown = await conn.profilepictureurl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *biodata* ${htka}
 ${htjava} *💌 nama* : disdik-mods-dev
 ${htjava} *✉️ nama rl* : hamba allah
