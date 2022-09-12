@@ -30,26 +30,7 @@ ${htjava} *🧮 Kelas* : 3 ESEMPEH
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Wonogiri, Jawa Tengah 
-${htjava} *❤️ Waifu* : Dis🥶
-
-${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
-•·––––––––––––––––––––––––––·•
-`
-//------------ bio
-let ppown = await conn.profilepictureurl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio = `${htki} *biodata* ${htka}
-${htjava} *💌 nama* : disdik-mods-dev
-${htjava} *✉️ nama rl* : hamba allah
-${htjava} *♂️ gender* : boys
-${htjava} *🕋 agama* : islam
-${htjava} *⏰ tanggal lahir* : private 🥶
-${htjava} *🎨 umur* : 14
-${htjava} *🧮 kelas* : 3 esempeh 
-${htjava} *🧩 hobby* : modifikasi whatsapp "modder whatsapp"
-${htjava} *💬 sifat* : asik dah kalau dah kenal
-${htjava} *🗺️ tinggal* : indo, wonogiri, jawa tengah 
-${htjava} *❤️ waifu* : dis🥶
+${htjava} *❤️ Ayang* : Disti❤️
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
@@ -62,7 +43,6 @@ const sections = [
 	rows: [
 	    {title: "📱 • Nomor", rowId: ".owner nomor"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-        {title: "🎨 • Biodata Ayabg", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
