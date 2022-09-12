@@ -36,6 +36,25 @@ ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
+//------------ bio
+let ppown = await conn.profilepictureurl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[2]) 
+let teksbio = `${htki} *biodata* ${htka}
+${htjava} *💌 nama* : disdik-mods-dev
+${htjava} *✉️ nama rl* : hamba allah
+${htjava} *♂️ gender* : boys
+${htjava} *🕋 agama* : islam
+${htjava} *⏰ tanggal lahir* : private 🥶
+${htjava} *🎨 umur* : 14
+${htjava} *🧮 kelas* : 3 esempeh 
+${htjava} *🧩 hobby* : modifikasi whatsapp "modder whatsapp"
+${htjava} *💬 sifat* : asik dah kalau dah kenal
+${htjava} *🗺️ tinggal* : indo, wonogiri, jawa tengah 
+${htjava} *❤️ waifu* : dis🥶
+
+${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
+${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
+•·––––––––––––––––––––––––––·•
+`
   let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
 const sections = [
    {
@@ -43,7 +62,7 @@ const sections = [
 	rows: [
 	    {title: "📱 • Nomor", rowId: ".owner nomor"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-        {title: "🎨 • Biodata", rowId: ".owner bio"},
+        {title: "🎨 • Biodata Ayabg", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
