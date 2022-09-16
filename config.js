@@ -46,7 +46,7 @@ global.ppulsa2 = '082223124102' // kalau ada kartu lain isi aja
 global.psaweria = 'Gk ada:v'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283821906021'
+global.nomorbot = '6281215887157'
 global.nomorown = '6281225377760'
 global.namebot = 'DISDIK-MODS-BOT-V1'
 global.nameown = 'DISDIK MODS DEV'
